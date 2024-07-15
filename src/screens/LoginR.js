@@ -7,7 +7,7 @@ export default function LoginR({ navigation }) {
 
         <View style={styles.card}>
             <View style={styles.contentText}>
-
+                
             </View>
         </View>
       </View>
